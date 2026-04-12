@@ -1,7 +1,7 @@
 <h2>Hi, my name is Oluwaseun Adeyemi!</h2>  <a href="https://linkedin.com/in/oatech"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br/>
-I am an aspiring Information Technology Specialist, currently studying IT Operations with a background in Computer Engineering. <br/>
+I am an IT Support Specialist, I have recently completed my studies in IT Operations with a background in Computer Engineering. <br/>
 <h2> Objective </h2>
-My journey in computer engineering technology has led me to develop a passion for information technology, and I am now eager to transition into this field as an IT Specialist, aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer engineering technology has led me to develop a passion for information technology, and I am now eager to transition into this field as an IT Support Specialist/Analyst or Field Technician, aiming to join a Security Operations Center (SOC) in the future as a Tier 1 Analyst.
 
 <h3>👨‍💻 Information Technology Support & Security Projects:</h3>
 
